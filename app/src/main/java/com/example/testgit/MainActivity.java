@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity
         txtView=(TextView)findViewById(R.id.TextView);
 
         txtView.setText("Test Git");
+        String str ="Trần Văn Dũng";
 
     }
 }
